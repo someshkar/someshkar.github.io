@@ -1,0 +1,36 @@
+{
+  "name": "Karchive",
+  "identifier": "dev.somesh.karchive",
+  "apps": [
+    {
+      "name": "Scan3D",
+      "bundleIdentifier": "app.moonshot.scan3d",
+      "developerName": "moonshot",
+      "subtitle": "LiDAR scan with real millimetre scale",
+      "localizedDescription": "Guided capture with real-world millimetre scale.",
+      "category": "utilities",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Scan3D uses the camera and LiDAR to measure the object and build a 3D model with real-world millimetre scale."
+        }
+      },
+      "versions": [
+        {
+          "version": "1.1.202611111316",
+          "buildVersion": "202611111316",
+          "date": "2026-11-11T07:55:09Z",
+          "localizedDescription": "Component mode: six named views of one part for the build record, with a shutter that refuses a tilted, mis-framed or ruler-less frame. Orbit and Object Capture unchanged.",
+          "downloadURL": "https://someshkar.github.io/Scan3D-202611111316.ipa",
+          "size": 436623,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "iconURL": "https://someshkar.github.io/icon.png",
+      "tintColor": "#39D0FF",
+      "size": 436623
+    }
+  ],
+  "news": [],
+  "subtitle": "Somesh Kar's experiments, as apps you can install"
+}
